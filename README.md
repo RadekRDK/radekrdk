@@ -12,3 +12,10 @@ Although everything I write is by myself, considering my often robotic, emotiona
 
 Compared to many other much fancier GitHub profiles, not much is happening here at the moment.
 I use my profile mostly as an archive of old demo projects, as well as some of the hobby side projects I have developed for fun, though there is a high chance that they are all private at the moment. Considering I display my contribution history for those repos as well, I hope you will still believe me that I am a really good programmer who is really creative, does a lot of things and always totally knows what he is doing.
+
+# Currently Working On
+
+- Saying the alphabet backwards
+- Bending bananas straight
+- Conquering the holy land
+- CUDA-powered search engine
